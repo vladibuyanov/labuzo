@@ -3,6 +3,7 @@ Automatizovaný systém za pomoci programovacieho jazyka Python, ktorý sa prihl
 
 ## Technológie
 - Python
+- [Gmail API](https://developers.google.com/gmail/api)
 
 ## Spustenie projektu
 
@@ -26,6 +27,8 @@ git clone https://github.com/vladibuyanov/hyperia
 ```shell
 pip install -r requirements.txt
 ```
+
+### Pridajte súbor credentials.json do priečinka gmail_api
 
 ### Spustenie
 ```shell
