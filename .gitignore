@@ -1,2 +1,4 @@
 /venv
 /.idea
+/gmail_api/credentials.json
+/token.json

@@ -3,7 +3,6 @@ Automatizovaný systém za pomoci programovacieho jazyka Python, ktorý sa prihl
 
 ## Technológie
 - Python
-- Selenium
 
 ## Spustenie projektu
 
